@@ -11,7 +11,7 @@ body {
   background-color:white;
   border-radius: 15px; /*membuat sudut menjadi ,melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
-  text-allign: center; /* menengahkan semua taks di dalam kartu */
+  text-align: center; /* menengahkan semua teks di dalam kartu */
 }
 
 .kartu-profil img {
